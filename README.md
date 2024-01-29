@@ -1,11 +1,4 @@
-### Hi there 👋
-
-<!--
-**StevendotAI/StevendotAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-👋 Hi, I'm Steven Igomu
+👋 Hi there, I'm Steven Igomu
 
 😄 As a tech enthusiast with a penchant for online research, I navigate the digital landscape to uncover the latest technological marvels and innovative solutions.
 
