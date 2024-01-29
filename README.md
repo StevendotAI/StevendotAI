@@ -1,4 +1,4 @@
-👋 Hi there, I'm Steven Igomu
+👋 Hi there, I'm Steven Igomu.
 
 😄 As a tech enthusiast with a penchant for online research, I navigate the digital landscape to uncover the latest technological marvels and innovative solutions.
 
