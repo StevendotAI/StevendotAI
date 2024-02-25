@@ -1,4 +1,4 @@
-👋 Hey there! I'm Steven Igomu.
+👋 Hey there! I'm Steven.
 
 😄 I'm your friendly neighborhood tech enthusiast, always on the hunt for the latest and greatest in the digital world. From diving into complex data structures to unraveling the magic of algorithms, I'm in my element when it comes to all things tech.
 
